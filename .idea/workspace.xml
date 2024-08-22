@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9d01369-64ca-471d-92cc-fec5e3a7b29f" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JameRoyar/LeetCode.git",
+    "accountId": "baf9f5d3-d7ba-4513-846f-067795f77174"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python312/Lib/collections/__init__.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2fBuXV6rKNMMFKNvzftEtmcAMDn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python 测试.289生命游戏.TestGameOfLife.test_negative_board 的 Python 测试 (1).executor": "Run",
+    "Python 测试.289生命游戏.TestGameOfLife.test_negative_board 的 Python 测试.executor": "Run",
+    "Python 测试.Python tests for od3150贪心2024D-变换最小字符串.TestMaximumSwap.test_all_elements_larger_or_equal_to_top (1).executor": "Run",
+    "Python 测试.Python tests for od3150贪心2024D-变换最小字符串.TestMaximumSwap.test_all_elements_larger_or_equal_to_top.executor": "Debug",
+    "Python 测试.Python 测试 (289生命游戏.py 内).executor": "Run",
+    "Python 测试.estMaximumSwap.test_all_elements_larger_or_equal_to_top.executor": "Debug",
+    "Python 测试.s.TestGameOfLife.test_negative_board 的 Python 测试 (1).executor": "Run",
+    "Python 测试.二叉树的中序遍历.TestInorderTraversal.test_normal_tree 的 Python 测试.executor": "Run",
+    "Python 测试.最短的二叉树深度.TestMinDepth.test_left_right_child_tree_2 的 Python 测试.executor": "Run",
+    "Python 测试.生命游戏.TestGameOfLife.test_negative_board 的 Python 测试 (1).executor": "Run",
+    "Python.0331字符串统计和重新排序.executor": "Run",
+    "Python.131.executor": "Debug",
+    "Python.15.executor": "Run",
+    "Python.167.executor": "Run",
+    "Python.205.executor": "Run",
+    "Python.239.executor": "Run",
+    "Python.2700.executor": "Run",
+    "Python.2800哈希表2023A-集五福.executor": "Run",
+    "Python.2811哈希表2024D跳房子I.executor": "Run",
+    "Python.2829哈希表2024D-查找众数及中位数.executor": "Run",
+    "Python.289生命游戏.executor": "Run",
+    "Python.3.executor": "Run",
+    "Python.3004.executor": "Run",
+    "Python.31.executor": "Run",
+    "Python.3199贪心2024D-虚拟游戏理财.executor": "Run",
+    "Python.3205不定滑窗2024D-字符串摘要.executor": "Debug",
+    "Python.3206不定滑窗2024D-最长的指定瑕疵度的元音子串.executor": "Run",
+    "Python.3481分披萨.executor": "Run",
+    "Python.360DF2024D-悄悄话花费的时间.executor": "Run",
+    "Python.3706BFS2024D-跳马问题.executor": "Run",
+    "Python.3707BFS2024D-亲子游戏.executor": "Run",
+    "Python.3708BFS2024D-周末爬山.executor": "Run",
+    "Python.3800回溯2023B-第N个排序.executor": "Run",
+    "Python.3804回溯2024D-找到它.executor": "Run",
+    "Python.3805回2024D-考古学家.executor": "Run",
+    "Python.3806最长的连续手牌.executor": "Run",
+    "Python.3807表演赛分组.executor": "Run",
+    "Python.3808回溯字符串拼接.executor": "Run",
+    "Python.3809加密算法.executor": "Run",
+    "Python.3850回溯2024D-田忌赛马.executor": "Run",
+    "Python.6301回溯华为2023秋招-中庸行者.executor": "Run",
+    "Python.99.executor": "Debug",
+    "Python.BFS2024D-聚餐地点.executor": "Run",
+    "Python.BubbleSort.executor": "Debug",
+    "Python.DoubleBall.executor": "Run",
+    "Python.InsertionSort.executor": "Run",
+    "Python.List01.executor": "Run",
+    "Python.MY2.executor": "Run",
+    "Python.Od01.executor": "Run",
+    "Python.Od02.executor": "Debug",
+    "Python.SelectionSort.executor": "Run",
+    "Python.[3]无重复字符的最长子串.executor": "Debug",
+    "Python.[889]根据前序和后序遍历构造二叉树.executor": "Run",
+    "Python.[面试题 01.05]一次编辑.executor": "Debug",
+    "Python.[面试题 01.06]字符串压缩.executor": "Run",
+    "Python._pydev_execfile.executor": "Run",
+    "Python.bfs二叉树的广度优先遍历.executor": "Run",
+    "Python.if01.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.od03.executor": "Run",
+    "Python.od04.executor": "Run",
+    "Python.od2500.executor": "Run",
+    "Python.od2502.executor": "Run",
+    "Python.od2504.executor": "Run",
+    "Python.od2518.executor": "Run",
+    "Python.od2522.executor": "Run",
+    "Python.od2523.executor": "Run",
+    "Python.od2524.executor": "Debug",
+    "Python.od2525.executor": "Debug",
+    "Python.od2531模拟2023C-来自异国的客人.executor": "Run",
+    "Python.od2532模拟2023C-攀登者1.executor": "Run",
+    "Python.od2534模拟2023BTLV编码.executor": "Run",
+    "Python.od2538模拟2024D整数对最小和.executor": "Run",
+    "Python.od2540模拟2024D-靠谱的车.executor": "Run",
+    "Python.od2552排序2023C身高排序.executor": "Run",
+    "Python.od2580-2023C-文件缓存系统.executor": "Debug",
+    "Python.od2581系统设计2023C模拟目录管理.executor": "Debug",
+    "Python.od2701.executor": "Run",
+    "Python.od2705.executor": "Run",
+    "Python.od2710.executor": "Run",
+    "Python.od2814.executor": "Debug",
+    "Python.od2819.executor": "Run",
+    "Python.od3102贪心2023c找车位.executor": "Debug",
+    "Python.od3150贪心2024D-变换最小字符串.executor": "Run",
+    "Python.od3252.executor": "Run",
+    "Python.od3255.executor": "Run",
+    "Python.od3305二分查找2023C-孙悟空吃蟠桃.executor": "Debug",
+    "Python.od3400DP分班.executor": "Debug",
+    "Python.od3511地图寻宝.executor": "Run",
+    "Python.od4600_2024D-快递员的烦恼.executor": "Run",
+    "Python.time01.executor": "Debug",
+    "Python.面试0105.executor": "Debug",
+    "Python.验证函数间的append.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/rico/PycharmProjects/pythonProject/.venv",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rico\PycharmProjects\pythonProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python 测试.二叉树的中序遍历.TestInorderTraversal.test_normal_tree 的 Python 测试">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="生命游戏.TestGameOfLife.test_negative_board 的 Python 测试 (1)" type="tests" factoryName="Autodetect" temporary="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3498DFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;生命游戏.TestGameOfLife.test_negative_board&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="生命游戏.TestGameOfLife.test_negative_board 的 Python 测试 (1)" type="tests" factoryName="Autodetect" temporary="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3498DFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;生命游戏.TestGameOfLife.test_negative_board&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="二叉树的中序遍历.TestInorderTraversal.test_normal_tree 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3515DFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;二叉树的中序遍历.TestInorderTraversal.test_normal_tree&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="二叉树的中序遍历.TestInorderTraversal.test_normal_tree 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3515DFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;二叉树的中序遍历.TestInorderTraversal.test_normal_tree&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="最短的二叉树深度.TestMinDepth.test_left_right_child_tree_2 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;最短的二叉树深度.TestMinDepth.test_left_right_child_tree_2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s.TestGameOfLife.test_negative_board 的 Python 测试 (1)" type="tests" factoryName="Autodetect" temporary="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3498DFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;s.TestGameOfLife.test_negative_board&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python 测试.二叉树的中序遍历.TestInorderTraversal.test_normal_tree 的 Python 测试" />
+        <item itemvalue="Python 测试.二叉树的中序遍历.TestInorderTraversal.test_normal_tree 的 Python 测试" />
+        <item itemvalue="Python 测试.s.TestGameOfLife.test_negative_board 的 Python 测试 (1)" />
+        <item itemvalue="Python 测试.生命游戏.TestGameOfLife.test_negative_board 的 Python 测试 (1)" />
+        <item itemvalue="Python 测试.生命游戏.TestGameOfLife.test_negative_board 的 Python 测试 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d9d01369-64ca-471d-92cc-fec5e3a7b29f" name="更改" comment="" />
+      <created>1713286831751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713286831751</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/面试0105.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/time01.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Od01.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Od02.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od3255.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2502.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2502.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2502.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2502.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2502.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2502.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2502.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2701.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2701.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2814.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2814.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2814.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2814.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2814.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2819.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2819.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2819.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2819.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BubbleSort.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/205.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/15.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/15.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/15.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/239.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/239.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/239.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2522.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2522.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2581系统设计2023C模拟目录管理.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2581系统设计2023C模拟目录管理.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od2581系统设计2023C模拟目录管理.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od3102贪心2023c找车位.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/99.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/99.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od3305二分查找2023C-孙悟空吃蟠桃.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od3305二分查找2023C-孙悟空吃蟠桃.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od3150贪心2024D-变换最小字符串.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od3150贪心2024D-变换最小字符串.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="python-line">
+          <url>file://$PROJECT_DIR$/od4205前缀和2024D-查找接口成功率最优时间段.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/最短的二叉树深度.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/最短的二叉树深度.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/最短的二叉树深度.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3515DFS/17 numbers.py</url>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/131.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/131.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/131.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/131.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/131.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/131.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/131.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/131.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/131.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3515DFS/31.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3515DFS/31.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3515DFS/31.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3515DFS/31.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3515DFS/31.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2829哈希表2024D-查找众数及中位数.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2829哈希表2024D-查找众数及中位数.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2829哈希表2024D-查找众数及中位数.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2829哈希表2024D-查找众数及中位数.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2829哈希表2024D-查找众数及中位数.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2829哈希表2024D-查找众数及中位数.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3205不定滑窗2024D-字符串摘要.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3205不定滑窗2024D-字符串摘要.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3205不定滑窗2024D-字符串摘要.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3205不定滑窗2024D-字符串摘要.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3205不定滑窗2024D-字符串摘要.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3205不定滑窗2024D-字符串摘要.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0331字符串统计和重新排序.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/0331字符串统计和重新排序.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3515DFS/360DF2024D-悄悄话花费的时间.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3515DFS/360DF2024D-悄悄话花费的时间.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3515DFS/360DF2024D-悄悄话花费的时间.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3706BFS2024D-跳马问题.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3706BFS2024D-跳马问题.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3706BFS2024D-跳马问题.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3706BFS2024D-跳马问题.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3706BFS2024D-跳马问题.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od3512dfs/3808回溯字符串拼接.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/od3512dfs/3808回溯字符串拼接.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3515DFS/3809加密算法.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3515DFS/3809加密算法.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2800哈希表2023A-集五福.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2800哈希表2023A-集五福.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2800哈希表2023A-集五福.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2800哈希表2023A-集五福.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3498DFS/289生命游戏.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/3515DFS/test_94二叉树的中序遍历.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
